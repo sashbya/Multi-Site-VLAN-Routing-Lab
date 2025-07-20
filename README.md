@@ -38,6 +38,8 @@ All four PCs across two VLANs and two switches can communicate through inter-VLA
 Traffic flows across 3 routers as if simulating branch/HQ connections.
 
 ## Files
-Link to main Packet Tracer project here.
-Link to the running configurations of each device here.
+Link to main Packet Tracer project [here](lab-files/vlan-routing-lab.pkt).
+
+Link to the running configurations of each device [here](configs).
+
 Link to Topology picture [here](lab-files/vlan-roas-topology.png).
