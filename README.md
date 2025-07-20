@@ -11,7 +11,7 @@ It demonstrates key CCNA-level concepts like VLAN configuration, trunking, route
   - VLAN 10 - Users
   - VLAN 20 - Admin
 
-Link to Topology picture here.
+Link to Topology picture [here](vlan-roas-topology.png).
 
 ## Technology and Competencies
 - Cisco Packet Tracer
