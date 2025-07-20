@@ -12,8 +12,6 @@ The structure aligns with how real small/medium businesses might segment users, 
   - VLAN 10 - Users
   - VLAN 20 - Admin
 
-Link to Topology picture [here](vlan-roas-topology.png).
-
 ## Technology and Competencies
 - Cisco Packet Tracer
 - VLANs, Trunking (802.11q)
@@ -38,3 +36,8 @@ Link to Topology picture [here](vlan-roas-topology.png).
 
 All four PCs across two VLANs and two switches can communicate through inter-VLAN routing and inter-site static routes.
 Traffic flows across 3 routers as if simulating branch/HQ connections.
+
+## Files
+Link to main Packet Tracer project here.
+Link to the running configurations of each device here.
+Link to Topology picture [here](lab-files/vlan-roas-topology.png).
